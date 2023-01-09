@@ -1,0 +1,14 @@
+# RQ3A.211001.001
+- manufacturer: 
+- platform: msm8953
+- codename: sdm450
+- flavor: treble_arm64_bvZ-userdebug
+- release: 11
+- id: RQ3A.211001.001
+- incremental: 220330
+- tags: release-keys
+- fingerprint: samsung/sdm450:10/QP1A.190711.020/sdm450:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: RQ3A.211001.001
+- repo: samsung_sdm450_dump

@@ -1,0 +1,3 @@
+service zerodaemon /system/bin/zerodaemon --daemon
+    class main
+    disabled
